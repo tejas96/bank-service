@@ -1,7 +1,7 @@
 {
     "bodyPage":{
         "heading":{
-            "selectOpt1":["mumbai", "chennai", "bengaluru", "delhi", "pune"],
+            "selectOpt1":["mumbai", "chennai", "kolkata", "delhi", "pune"],
             "selectOpt2":[ "ifsc", "branch", "bank name"]
         },
         "footer":{
